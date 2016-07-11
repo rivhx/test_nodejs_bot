@@ -10,7 +10,7 @@ var async = require('async');
 var socketio = require('socket.io');
 var express = require('express');
 
-//
+//https://github.com/rivhx/test_nodejs_bot
 // ## SimpleServer `SimpleServer(obj)`
 //
 // Creates a new instance of SimpleServer with the following options:
